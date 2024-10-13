@@ -30,7 +30,7 @@ HealthXO aims to disrupt traditional healthcare systems by providing a secure, d
 - Mobile App: Android support for mining and easy access to medical records.
 - Advanced Security Measures: Enhanced smart contracts for secure data sharing.
 
-## Istallation Guide
+## Installation Guide
 
 To run the project locally, follow these steps:
 
