@@ -36,7 +36,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/HealthXO.git
+    git clone https://github.com/DeevKapoor/HealthXO.git
     ```
    
 2. **Navigate to the project directory**:
